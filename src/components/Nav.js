@@ -18,6 +18,16 @@ return (
               CONTACT ME
             </span>
           </li>
+          <li className="mx-2">
+            <a href="#about" onClick={() => handleClick()}>
+              PROJECTS
+            </a>
+          </li>
+          <li className={"mx-2"}>
+            <span onClick={() => handleClick()}>
+              RESUME
+            </span>
+          </li>
           {
             categories.map((category) => (
               <li className="mx-1" key={category.name} >
