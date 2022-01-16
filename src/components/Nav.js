@@ -1,17 +1,11 @@
 import React from "react";
-import { capitalizeFirstLetter } from "../../utils/helper";
+import { capitalizeFirstLetter } from "../utils/helpers";
 
 function Nav() {
-  const  categories = [
-    { name: 'PORTFOLIO', description: 'Portraits of people in my life' },
-    { name: 'RESUME', description: 'Fields, farmhouses, waterfalls, and the beauty of nature' }
-  ];
-const handleClick = () => {
-    console.log("click handled")
-  }
+ 
 return (
     <header data-testid="header" className="flex-row px-1">
-      
+     
       <nav>
         <ul className="flex-row">
           <li className="mx-2">
@@ -21,7 +15,7 @@ return (
           </li>
           <li className={"mx-2"}>
             <span onClick={() => handleClick()}>
-              CONTACT
+              CONTACT ME
             </span>
           </li>
           {
