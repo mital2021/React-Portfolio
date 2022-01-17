@@ -13,20 +13,20 @@ return (
               ABOUT ME
             </a>
           </li>
-          <li className={"mx-2"}>
-            <span onClick={() => handleClick()}>
-              CONTACT ME
-            </span>
-          </li>
           <li className="mx-2">
-            <a href="#about" onClick={() => handleClick()}>
-              PROJECTS
+            <a href="#Project" onClick={() => handleClick()}>
+              PROJECT
             </a>
           </li>
-          <li className={"mx-2"}>
-            <span onClick={() => handleClick()}>
-              RESUME
-            </span>
+          <li className="mx-2">
+            <a href="#contact" onClick={() => handleClick()}>
+              CONTACT ME
+            </a>
+          </li>
+          <li className="mx-2">
+            <a href="#resume" onClick={() => handleClick()}>
+              RESUME ME
+            </a>
           </li>
           {
             categories.map((category) => (

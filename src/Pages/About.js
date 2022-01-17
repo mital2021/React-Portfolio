@@ -1,5 +1,6 @@
 import React from 'react'
 import coverImage from "../assets/images/mital.jpg";
+import '../App.css';
 
 function About() {
 
@@ -16,4 +17,4 @@ function About() {
   )
 }
 
-export default About
+export default About;
