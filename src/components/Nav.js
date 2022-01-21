@@ -5,7 +5,7 @@ function Nav(props) {
     const tabs = ['About Me', 'Contact', 'Project', 'Resume'];    
     return (
         <div>
-            <ul id="nav" className="nav navbar">
+            <ul id="nav" className="nav bar">
                 {tabs.map(currentTab => (
                     <li key={currentTab} >
                         <a
