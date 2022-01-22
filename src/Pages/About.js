@@ -3,6 +3,7 @@ import coverImage from "../assets/images/mital.jpg";
 import '../App.css';
 
 
+
 function About() {
 
   return (
