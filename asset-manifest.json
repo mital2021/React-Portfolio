@@ -1,16 +1,20 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.465c5c66.css",
-    "main.js": "/react-portfolio/static/js/main.ac088be5.js",
+    "main.js": "/react-portfolio/static/js/main.9d5d35cc.js",
     "static/js/787.8c081f57.chunk.js": "/react-portfolio/static/js/787.8c081f57.chunk.js",
+    "static/media/digital-marketing-meeting.jpg": "/react-portfolio/static/media/digital-marketing-meeting.c672fcf0b6bd0c33ff16.jpg",
+    "static/media/recipegenerator.jpg": "/react-portfolio/static/media/recipegenerator.7ec04c866bce5e482172.jpg",
+    "static/media/myvalentine.png": "/react-portfolio/static/media/myvalentine.aa50138a76d51bc23985.png",
+    "static/media/weather.png": "/react-portfolio/static/media/weather.0e2ba6af07f74533ec8e.png",
     "static/media/mital.jpg": "/react-portfolio/static/media/mital.a23c8b1595eae133e504.jpg",
     "index.html": "/react-portfolio/index.html",
     "main.465c5c66.css.map": "/react-portfolio/static/css/main.465c5c66.css.map",
-    "main.ac088be5.js.map": "/react-portfolio/static/js/main.ac088be5.js.map",
+    "main.9d5d35cc.js.map": "/react-portfolio/static/js/main.9d5d35cc.js.map",
     "787.8c081f57.chunk.js.map": "/react-portfolio/static/js/787.8c081f57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.465c5c66.css",
-    "static/js/main.ac088be5.js"
+    "static/js/main.9d5d35cc.js"
   ]
 }
