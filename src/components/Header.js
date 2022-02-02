@@ -1,9 +1,10 @@
 import React, { useState } from "react";
 import About from '../Pages/About';
 import Contact from '../Pages/Contact';
-import Project from '../Pages/Project';
+import Portfolio from '../Pages/Portfolio';
 import Resume from '../Pages/Resume';
 import Nav from '../components/Nav';
+
 
 
 function Header() {
@@ -15,7 +16,7 @@ function Header() {
         switch (currentPage) {
             case 'About':  return <About />;
             case 'Contact': return <Contact />;
-            case 'Project': return <Project />;
+            case 'Portfolio': return <Portfolio />;
             case 'Resume': return <Resume />;
             default: return <About />;
         }

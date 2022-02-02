@@ -107,7 +107,8 @@ header {
     margin: 0 1px;
     background-color: var(--secondary);
   }
-  
+
+ 
   button:hover {
     opacity: 0.8;
   }

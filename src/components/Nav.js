@@ -2,7 +2,7 @@
 import React from 'react';
 
 function Nav(props) {
-    const tabs = ['About Me', 'Contact', 'Project', 'Resume'];    
+    const tabs = ['About Me', 'Contact', 'Portfolio', 'Resume'];    
     return (
         <div>
             <ul id="nav" className="nav bar">
